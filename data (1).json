@@ -1,0 +1,130 @@
+[
+    {
+        "neve" : "Fodrász Fruzsi",
+        "nyitvatartas" : [{
+            "nap" : "Hétfő",
+            "napIndex" : 1,
+            "tol" : "10",
+            "ig" : "15",
+        "img": "kepek2/beauty_barbie_pretty_doll_charming_children_toys_girl_face-644612.jpg!d",
+        "bio": "26 éve vagyok fodrász, tapasztalatommal igyekszem a legtöbbet adni mindenkinek. Várlak szeretettel leendő férfi és női vendégem!",
+        "titulus": "FODRÁSZ"
+        },
+        {
+            "nap" : "Szerda",
+            "napIndex" : 3,
+            "tol" : "9",
+            "ig" : "14"
+        },
+        {
+            "nap" : "Szombat",
+            "napIndex" : 6,
+            "tol" : "10",
+            "ig" : "13"
+        }
+        ],
+        "idopontfoglals" : [{
+            "nev" : "Sándor Matilda",
+            "datum" : "2020.08.12",
+            "ora" : "13:00"
+        },
+        {
+            "nev" : "Sándor Béla",
+            "datum" : "2020.08.12",
+            "ora" : "9:00"
+        }
+        ],
+        "szolgáltatás" : [{
+            "típus" : ["vágás","fonás","festés"]
+        }]
+    },
+    {
+        "neve" : "Hajas Helga ",
+        "nyitvatartas" : [{
+            "nap" : "Kedd",
+            "napIndex" : 2,
+            "tol" : "8",
+            "ig" : "13",
+         "img": "kepek2/beauty_barbie_pretty_doll_charming_children_toys_girl_face-645143.jpg!d",
+         "bio": "A nevem Helga és kicsi korom óta fodrász szerettem volna lenni, amit már 6 éve sikerült is megvalósítanom. A hajvágás mellett a hajfestésekkel szeretek még nagyon foglalatoskodni, legyen az tőfestés vagy melírozás, esetleg balayage.",
+        "titulus": "MESTER FODRÁSZ"
+        },
+        {
+            "nap" : "Szerda",
+            "napIndex" : 3,
+            "tol" : "12",
+            "ig" : "14"
+        },
+        {
+            "nap" : "Csütörtök",
+            "napIndex" : 4,
+            "tol" : "9",
+            "ig" : "14"
+        }
+        ],
+        "idopontfoglals" : [{
+            "nev" : "Sándor Matilda",
+            "datum" : "2020.08.12",
+            "ora" : "13:00"
+        },
+        {
+            "nev" : "Sándor Béla",
+            "datum" : "2020.08.12",
+            "ora" : "9:00"
+        }
+        ],
+        "szolgáltatás" : [{
+            "típus" : ["vágás","mosás","festés", "fonás"]
+        }]
+    },
+    {
+       "neve" : "Hosszú Anna",
+        "nyitvatartas" : [{
+            "nap" : "Hétfő",
+            "napIndex" : 1,
+            "tol" : "9",
+            "ig" : "15",
+         "img": "kepek2/doll_black_african_american_african_model_barbie_girl_female-1207378.jpg!s2",
+        "bio" : "10 éve dolgozom a szakmában és elmondhatom magamról, ,hogy a hobbim a munkám. Jó kommunikációs készséggel rendelkezem, ami azt gondolom elengedhetetlen a szépségipar ezen területén. Szeretem a kihívásokat legyen az egy új szín vagy frizura változtatás.",
+        "titulus": "HAJSZOBRÁSZ"
+        },
+        {
+            "nap" : "Péntek",
+            "napIndex" : 5,
+            "tol" : "9",
+            "ig" : "14"
+        },
+        {
+            "nap" : "Szombat",
+            "napIndex" : 6,
+            "tol" : "10",
+            "ig" : "13"
+        }
+        ],
+        "szolgáltatás" : [{
+            "típus" : ["vágás","mosás","festés"]
+        }]
+    },
+    {
+        "neve" : "Rövid András",
+         "nyitvatartas" : [{
+             "nap" : "Szerda",
+             "napIndex" : 3,
+             "tol" : "8",
+             "ig" : "15",
+        "img": "kepek2/doll_man_guy_male_face_portrait_head_caucasian-695972.jpg!d",
+        "bio" : "András vagyok, a szakmám szerelmese. Úgy gondolom, ha imádod a munkád, a hobbiddá válik. Én pont így vagyok vele. Női és férfi hajakat szeretek a legjobban vágni.",
+        "titulus": "FODRÁSZ"
+         },
+         {
+             "nap" : "Csütörtök",
+             "napIndex" : 4,
+             "tol" : "8",
+             "ig" : "14"
+         }
+         ],
+         "szolgáltatás" : [{
+            "típus" : ["vágás", "mosás"]
+        }]
+    }
+    ]
