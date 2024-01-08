@@ -35,7 +35,7 @@
             "ora" : "9:00"
         }
         ],
-        "szolgaltatas" : ["mosas","fonas"]
+        "szolgaltatas" : ["vagas","mosas","fonas"]
     
     },
     {
@@ -101,7 +101,7 @@
             "ig" : "13"
         }
         ],
-        "szolgaltatas" : ["mosas","festes","fonas"]
+        "szolgaltatas" : ["mosas","festes","fonas","vagas"]
     },
     {
         "id": 4,
