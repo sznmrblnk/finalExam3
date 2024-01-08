@@ -36,7 +36,7 @@
         }
         ],
         "szolgaltatas" :{
-            "tipus" : ["vágás","fonás","festés"]
+            "tipus" : ["vágás"]
         }
     },
     {
@@ -76,7 +76,7 @@
         }
         ],
         "szolgaltatas" :{
-            "tipus" : ["vágás","mosás","festés", "fonás"]
+            "tipus" : ["mosás"]
         }
     },
     {
@@ -105,7 +105,7 @@
         }
         ],
         "szolgaltatas" :{
-            "tipus" : ["vágás","mosás","festés"]
+            "tipus" : ["festés"]
         }
     },
     {
@@ -128,7 +128,7 @@
          }
          ],
          "szolgaltatas" :{
-            "tipus" : ["vágás", "mosás"]
+            "tipus" : ["fonás"]
         }
     }
     ]
