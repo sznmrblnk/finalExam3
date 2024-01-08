@@ -35,7 +35,7 @@
             "ora" : "9:00"
         }
         ],
-        "szolgaltatas" : {"tipus" : ["vágás"]}
+        "szolgaltatas" : {"tipus" : ["vágás"]},
     
     },
     {
@@ -74,7 +74,7 @@
             "ora" : "9:00"
         }
         ],
-        "szolgaltatas" : {"tipus" : ["mosás"]}
+        "szolgaltatas" : {"tipus" : ["mosás"]},
     },
     {
         "id": 3,
@@ -101,7 +101,7 @@
             "ig" : "13"
         }
         ],
-        "szolgaltatas" : {"tipus" : ["festés"]}
+        "szolgaltatas" : {"tipus" : ["festés"]},
     },
     {
         "id": 4,
@@ -122,7 +122,7 @@
              "ig" : "14"
          }
          ],
-         "szolgaltatas" : {"tipus" : ["fonás"]}
+         "szolgaltatas" : {"tipus" : ["fonás"]},
 
     }
     ]
