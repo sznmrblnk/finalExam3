@@ -35,8 +35,8 @@
             "ora" : "9:00"
         }
         ],
-        "szolgáltatás" : [{
-            "típus" : ["vágás","fonás","festés"]
+        "szolgaltatas" : [{
+            "tipus" : ["vágás","fonás","festés"]
         }]
     },
     {
@@ -75,8 +75,8 @@
             "ora" : "9:00"
         }
         ],
-        "szolgáltatás" : [{
-            "típus" : ["vágás","mosás","festés", "fonás"]
+        "szolgaltatas" : [{
+            "tipus" : ["vágás","mosás","festés", "fonás"]
         }]
     },
     {
@@ -104,8 +104,8 @@
             "ig" : "13"
         }
         ],
-        "szolgáltatás" : [{
-            "típus" : ["vágás","mosás","festés"]
+        "szolgaltatas" : [{
+            "tipus" : ["vágás","mosás","festés"]
         }]
     },
     {
@@ -127,8 +127,8 @@
              "ig" : "14"
          }
          ],
-         "szolgáltatás" : [{
-            "típus" : ["vágás", "mosás"]
+         "szolgaltatas" : [{
+            "tipus" : ["vágás", "mosás"]
         }]
     }
     ]
