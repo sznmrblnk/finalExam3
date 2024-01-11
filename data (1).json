@@ -68,7 +68,7 @@
             "nap" : "Szombat",
             "napIndex" : 6,
             "idopontok" : ["11:00-11:30", "11:30-12:00", "12:30-13:00", "13:00-13:30"]
-        },
+        }
         ],
         "szolgaltatas" : ["mosas","festes","fonas","vagas"]
     },
@@ -92,7 +92,7 @@
              "nap" : "Péntek",
              "napIndex" : 5,
              "idopontok" : ["10:00-10:30", "10:30-11:00", "11:00-11:30", "11:30-12:00", "12:30-13:00"]
-         },
+         }
          ],
          "szolgaltatas" : ["vagas","mosas"]
 
