@@ -21,24 +21,6 @@
             "idopontok" : ["10:00-10:30", "10:30-11:00", "11:00-11:30", "11:30-12:00", "12:30-13:00"]
         }
         ],
-        "idopontfoglals" : [{
-            "nev" : "Sándor Matilda",
-            "datum" : "2020.08.12",
-            "ora" : "13:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-            
-        },
-        {
-            "nev" : "Sándor Béla",
-            "datum" : "2020.08.12",
-            "ora" : "9:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        }
-        ],
         "szolgaltatas" : ["vagas","mosas","fonas"]
     
     },
@@ -64,23 +46,6 @@
             "idopontok" : ["11:00-11:30", "11:30-12:00", "12:30-13:00"]
         }
         ],
-        "idopontfoglals" : [{
-            "nev" : "Sándor Matilda",
-            "datum" : "2020.08.12",
-            "ora" : "13:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        },
-        {
-            "nev" : "Sándor Béla",
-            "datum" : "2020.08.12",
-            "ora" : "9:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        }
-        ],
         "szolgaltatas" : ["mosas","festes"]
     },
     {
@@ -104,22 +69,6 @@
             "napIndex" : 6,
             "idopontok" : ["11:00-11:30", "11:30-12:00", "12:30-13:00", "13:00-13:30"]
         },
-        "idopontfoglals" : [{
-            "nev" : "Sándor Matilda",
-            "datum" : "2020.08.12",
-            "ora" : "13:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        },
-        {
-            "nev" : "Sándor Béla",
-            "datum" : "2020.08.12",
-            "ora" : "9:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        }
         ],
         "szolgaltatas" : ["mosas","festes","fonas","vagas"]
     },
@@ -144,25 +93,8 @@
              "napIndex" : 5,
              "idopontok" : ["10:00-10:30", "10:30-11:00", "11:00-11:30", "11:30-12:00", "12:30-13:00"]
          },
-        "idopontfoglals" : [{
-            "nev" : "Sándor Matilda",
-            "datum" : "2020.08.12",
-            "ora" : "13:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        },
-        {
-            "nev" : "Sándor Béla",
-            "datum" : "2020.08.12",
-            "ora" : "9:00",
-            "telefon" : "06703831552",
-            "email cím" : "valami@gmail.com",
-            "üzenet" : "Késni fogok öt percet"
-        }
-        ],
          ],
          "szolgaltatas" : ["vagas","mosas"]
 
     }
-    ]
+]
